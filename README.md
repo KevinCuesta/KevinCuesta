@@ -11,8 +11,11 @@ En constante aprendizaje y buscando nuevos desafíos.
 Certificaciones:
 
 Python Essentials 1: https://www.credly.com/badges/9254cd66-3cd6-454c-863a-a93a7ad33733/public_url
+
 Python Essentials 2: https://www.credly.com/badges/44e8244a-5d82-4c05-be00-be2e68366604/public_url
+
 JavaScript Essentials 1: https://www.credly.com/badges/52a0dc81-b3fd-4262-bcec-505c3831a1b1/public_url
+
 Getting Started with Enterprise Data Science : https://www.credly.com/badges/6ef969ff-a1ba-4469-9e37-14e3adcb55d0/public_url
 
 Habilidades:
