@@ -3,10 +3,9 @@ Estudiante de 5º semestre de Ingeniería de Sistemas en la Universidad Corhuila
 
 Acerca de mí:
 
-Apasionado por la tecnología y la programación.
-Conocimiento sólido en la creación de bases de datos, HTML, CSS y JavaScript.
-Experiencia en el desarrollo de aplicaciones web y software con Java, Python y JavaScript.
-En constante aprendizaje y buscando nuevos desafíos.
+Soy un desarrollador junior con habilidades en HTML, CSS, JavaScript, Java, Python y JavaScript.
+Estoy motivado y dispuesto a aprender, y tengo un gran interés en trabajar en proyectos nuevos
+e innovadores.
 
 Certificaciones:
 
