@@ -1,3 +1,11 @@
+<!--
+CONFIG
+FULL_NAME: Kevin Santiago Cuesta Hernandez
+GITHUB_USER: KevinCuesta
+EMAIL: crackesan@gmail.com
+CODE_ORGANIZATION: code-corhuila 
+-->
+
 ¡Hola! Soy Kevin Cuesta😎
 Estudiante de 5º semestre de Ingeniería de Sistemas en la Universidad Corhuila
 
